@@ -1,0 +1,13 @@
+$color-black:#000;
+$color-red:red;
+$color-white:#fff;
+
+body{
+    background-color: $color-black;
+    h1{
+        color:$color-white;
+        font-size: 60px;
+        text-align: center;
+        display: flex;
+    }
+}
